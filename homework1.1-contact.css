@@ -1,0 +1,18 @@
+#contact-title {
+    border-bottom: 1px #777777 solid; font-size: 24px; margin: 15px;
+}
+input[type=text], select, textarea {
+    width: 100%; padding: 15px; border: 1px solid #ccc; box-sizing: border-box; margin-top: 6px; margin-bottom: 16px; color: #777777;
+}
+
+input[type=submit] {
+    background-color: #4aaaa5; color: white; padding: 12px 20px; border: none;
+}
+
+input[type=submit]:hover {
+    background-color: teal;
+}
+
+.container {
+    background-color: #ffffff; padding: 20px;
+}

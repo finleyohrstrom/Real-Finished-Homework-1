@@ -1,0 +1,9 @@
+#bio-title {
+	border-bottom: 1px #777777 solid; margin: 15px;
+}
+#me {
+	float: left; margin: 0px 15px 0px 15px;
+}
+#paragraph {
+	margin: 0px 15px 0px 15px; color: #777777;
+}
